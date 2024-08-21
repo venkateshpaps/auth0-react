@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/auth0-react/static/css/main.18d0cb22.css",
+    "main.js": "/auth0-react/static/js/main.9fc55e12.js",
+    "index.html": "/auth0-react/index.html",
+    "main.18d0cb22.css.map": "/auth0-react/static/css/main.18d0cb22.css.map",
+    "main.9fc55e12.js.map": "/auth0-react/static/js/main.9fc55e12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18d0cb22.css",
+    "static/js/main.9fc55e12.js"
+  ]
+}
